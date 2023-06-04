@@ -1,3 +1,5 @@
+# Sentiment-Analysis-on-Customer-Reviews-on-Baby-Products
+
 I am thrilled to share that I successfully implemented sentiment analysis on a dataset of 18,506 customer reviews for baby products. My goal was to predict sentiment using a logistic regression classifier, with positive sentiment represented by a review rating of +1 and negative sentiment represented by a review rating of -1.
 
 To ensure accurate predictions, I utilized various preprocessing techniques. This involved removing irrelevant words such as stop words, punctuation, and HTML tags using the NLTK and re libraries. Additionally, I applied stemming to reduce words to their base form, thereby ensuring consistency and enhancing the sentiment analysis algorithm's ability to extract relevant information.
